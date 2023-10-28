@@ -25,18 +25,17 @@ try:
 
 
 
-
 ▀▀█▀▀ ▒█▀▀█ ▀▄▒▄▀ ▀▄▒▄▀ ▒█░░░ ▄▀▀▄ ▄▀▀▄ 
 ░▒█░░ ▒█▄▄█ ░▒█░░ ░▒█░░ ▒█░░░ ▄▀▀▄ ▄▀▀▄ 
 ░▒█░░ ▒█░░░ ▄▀▒▀▄ ▄▀▒▀▄ ▒█▄▄█ ▀▄▄▀ ▀▄▄▀
-
+                                                                                                                          
 """)
 
         print ("")
-        print ("BY :TPXXL88")
-        print ("ทำโดย:เตตอง โลหะเวช")
-        print ("FB :เตตอง โลหะเวช")
-        print ("โดเนท Walllet Meme1")
+        print ("by : TPXXL88")
+        print ("ทำโดย : TPXXL88")
+        print ("FB : เตตอง โลหะเวช")
+        print("โดเนท WALLET Meme1")
         print ("")
         phone = input("\033[95m เบอร์ : \033[0m")
         num=int(input("\033[95m จำนวน : \033[0m"))
@@ -46,9 +45,7 @@ except ValueError:
         print ("\033[91m[!] ใส่ไม่ถูกต้อง")
         exit()
 print('')
-print("-----FB : เตตอง โลหะเวช----")
 print('')
-
 name = ''
 for x in range(12):
         name = name + random.choice(list('123456789qwertyuiopasdfghjklzxcvbnmQWERTYUIOPASDFGHJKLZXCVBNM'))
